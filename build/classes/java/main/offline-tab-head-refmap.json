@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "com/magmigo/mixin/PlayerListHudMixin": {
+      "Lnet/minecraft/network/ClientConnection;isEncrypted()Z": "Lnet/minecraft/class_2535;method_10771()Z",
+      "render": "Lnet/minecraft/class_355;method_1919(Lnet/minecraft/class_332;ILnet/minecraft/class_269;Lnet/minecraft/class_266;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "com/magmigo/mixin/PlayerListHudMixin": {
+        "Lnet/minecraft/network/ClientConnection;isEncrypted()Z": "Lnet/minecraft/class_2535;method_10771()Z",
+        "render": "Lnet/minecraft/class_355;method_1919(Lnet/minecraft/class_332;ILnet/minecraft/class_269;Lnet/minecraft/class_266;)V"
+      }
+    }
+  }
+}

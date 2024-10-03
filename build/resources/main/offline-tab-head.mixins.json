@@ -1,0 +1,9 @@
+{
+	"required": true,
+	"package": "com.magmigo.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": ["PlayerListHudMixin"],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
